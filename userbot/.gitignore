@@ -1,5 +1,6 @@
-__pycache__/
-*.json
+# Gizli məlumatlar. Qətiyyən GitHub-a yüklənməməlidir!
 *.session
 *.session-journal
-.env
+config.json
+users.json
+__pycache__/
